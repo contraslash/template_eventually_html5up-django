@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'/static/images/bg01.jpg': 'center',
-							'/static/images/bg02.jpg': 'center',
-							'/static/images/bg03.jpg': 'center'
+							'https://s3.amazonaws.com/contraslash/tpaga/static/images/bg01.jpg': 'center',
+							'https://s3.amazonaws.com/contraslash/tpaga/static/images/bg02.jpg': 'center',
+							'https://s3.amazonaws.com/contraslash/tpaga/static/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
