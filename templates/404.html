@@ -1,0 +1,12 @@
+{% load i18n %}
+{% extends 'base.html' %}
+
+
+{% block content %}
+    <h1>
+        {% trans '403 - Forbidden' %}
+    </h1>
+    <p>
+        {% trans 'You cannot access this page' %}
+    </p>
+{% endblock %}
